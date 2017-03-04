@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Image Downloader</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_download">Download</string>
+    <string name="alert_network_not_available">You are not connected to the network. Please, check your internet connection and try again</string>
+    <string name="alert_no_url_provided">Please provide a valid url</string>
+    <string name="alert_image_download_failed">Image could not be downloaded. Please try again</string>
+    <string name="alert_download_title">Download Image</string>
+    <string name="alert_download_message">Enter an image URL</string>
+</resources>
